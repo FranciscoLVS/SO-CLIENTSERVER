@@ -118,3 +118,6 @@ Este projeto foi desenvolvido para praticar conceitos de Sistemas Operativos, co
 - desempenho de pesquisa com paralelizacao
 - politicas de cache e persistencia de dados
 
+Estado do repositorio
+- Estrutura final organizada com o codigo-fonte diretamente na raiz do repositorio.
+
