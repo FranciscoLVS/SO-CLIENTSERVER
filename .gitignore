@@ -5,10 +5,10 @@
 *.o
 
 # Binary executables
-aplicacao/dserver
-aplicacao/dclient
+dserver
+dclient
 
 # Runtime and generated data
-aplicacao/metadata.bin
-aplicacao/cache_results.csv
-aplicacao/parallel_search_results.csv
+metadata.bin
+cache_results.csv
+parallel_search_results.csv
