@@ -1,0 +1,14 @@
+# Editor/history
+.history/
+
+# Build artifacts
+*.o
+
+# Binary executables
+aplicacao/dserver
+aplicacao/dclient
+
+# Runtime and generated data
+aplicacao/metadata.bin
+aplicacao/cache_results.csv
+aplicacao/parallel_search_results.csv
